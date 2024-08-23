@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I'm recently working on research topics in embodied ai
 - 🤔 I'm looking for PhD position in Robotics / Computer Vision
 - 💬 My personal website is at [https://zhouxunzhe.github.io/](https://zhouxunzhe.github.io/)
-- 📫 How to reach me: email me at xunzhe_zhou@outlook.com
-- ✨ Fun fact: I like soccer, basketball, Cities: Skylines
+- 📫 Email me at xunzhe_zhou@outlook.com
+- ✨ I like soccer, basketball, and Cities: Skylines
