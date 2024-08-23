@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm an undergraduate student at Fudan University
-- 🌱 I'm recently working on research topics in embodied ai
-- 🤔 I'm looking for PhD position in Robotics / Computer Vision
-- 💬 My personal website is at [https://zhouxunzhe.github.io/](https://zhouxunzhe.github.io/)
-- ✨ I like soccer, basketball, and Cities: Skylines
+- 🔭 I'm an undergraduate student at Fudan :egg: University
+- 🌱 I'm recently working on research topics in embodied ai 🤖
+- 🤔 I'm looking for PhD :mortar_board: position in robotics / computer vision
+- 💬 My personal website is at :link: [https://zhouxunzhe.github.io/](https://zhouxunzhe.github.io/)
+- ✨ I like soccer :soccer:, basketball :basketball:, and Cities: Skylines :office:
 <!-- - 📫 Email me at xunzhe_zhou@outlook.com -->
